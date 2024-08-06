@@ -11,7 +11,7 @@ Utilizing modern web technologies, the 2048 Game offers a responsive and accessi
  - JavaScript (ES6)
 
 ## Preview
-- [2048 Game Preview](https://khvashchenkodenys.github.io/2048-game/)
+- [2048 Game Preview](https://denys-khvashchenko.github.io/2048-game/)
 
 ## Additional Launch Instructions
 
